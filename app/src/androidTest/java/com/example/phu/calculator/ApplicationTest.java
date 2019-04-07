@@ -1,4 +1,4 @@
-package com.example.tranquoc.calculator;
+package com.example.phu.calculator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

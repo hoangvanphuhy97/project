@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.example.tranquoc.calculator"
+        applicationId "com.example.phu.calculator"
         minSdkVersion 18
         targetSdkVersion 23
         versionCode 1

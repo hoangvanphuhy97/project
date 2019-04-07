@@ -1,4 +1,4 @@
- package com.example.tranquoc.calculator;
+ package com.example.phu.calculator;
 
 import android.app.Activity;
 import android.os.Bundle;
